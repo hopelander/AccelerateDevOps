@@ -8,7 +8,7 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 
 3. Add one or two lines here with a random text:
 
-   __Random text__
+   __Random text again__
 
 4. Modify the following line by removing the letters that do not belong:
 
